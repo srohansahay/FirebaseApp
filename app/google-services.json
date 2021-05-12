@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "7685377795",
+    "project_id": "emjstory-4968d",
+    "storage_bucket": "emjstory-4968d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7685377795:android:1e40c9e1b2ba5096486336",
+        "android_client_info": {
+          "package_name": "com.rohan01.emjstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7685377795-roen7drit6cgk8a6l5tc64a92gf8fbqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohan01.emjstory",
+            "certificate_hash": "2bcc6b567128dddaa89c70fecbca46bb66bc1b45"
+          }
+        },
+        {
+          "client_id": "7685377795-i1l6h8oet8lujgepkrbjb8la9eaoqjs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgr2zMEQi-5IAedSErDjFtgGAHjDxle80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7685377795-i1l6h8oet8lujgepkrbjb8la9eaoqjs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
